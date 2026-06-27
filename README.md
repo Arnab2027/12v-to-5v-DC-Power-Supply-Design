@@ -1,6 +1,6 @@
 # 12V to 5V DC Power Supply Board
 
-[cite_start]A compact, high-reliability DC-DC power supply PCB designed to step down a standard 12V DC input rail to a stable, regulated 5V DC output[cite: 1, 17]. [cite_start]This repository contains the complete hardware design files, production-ready manufacturing packages, and documentation demonstrating proper power integrity and layout practices[cite: 2, 3].
+A compact, high-reliability DC-DC power supply PCB designed to step down a standard 12V DC input rail to a stable, regulated 5V DC output.This repository contains the complete hardware design files, production-ready manufacturing packages, and documentation demonstrating proper power integrity and layout practices.
 
 ## 📸 Hardware Showcase
 
