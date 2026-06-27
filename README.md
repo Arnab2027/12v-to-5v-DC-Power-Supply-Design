@@ -41,15 +41,4 @@ The physical circuit layout was optimized using standard electronics manufacturi
 
 ---
 
-## 📂 Repository Structure
 
-To make review efficient for engineering managers and recruiters, the repository follows a clean, standardized structure:
-
-```text
-├── Schematic/              # Clean, highly legible PDF export of the circuit schematic
-├── Hardware/               # Native CAD project files (Schematic and PCB layout data)
-├── Manufacturing/          # Production-ready fabrication files
-│   ├── Gerber/             # Individual RS-274X Gerber layers
-│   ├── Drill/              # NC Drill files (.DRL)
-│   └── BOM/                # Bill of Materials with Manufacturer Part Numbers (MPNs)
-└── Images/                 # Documentation assets and 3D layout renders
