@@ -8,16 +8,16 @@ A compact, high-reliability DC-DC power supply PCB designed to step down a stand
 | --- | --- |
 | ![PCB Layout](Images/pcb_top_layout.png) | ![Schematic Preview](Images/schematic_screenshot.png) |
 
-[cite_start]*(Note: Upload your layout screenshots to an `Images/` folder and name them as above to display them here[cite: 11]!)*
+
 
 ---
 
 ## ⚙️ Technical Specifications & System Architecture
 
 ### 1. Black Box Parameters
-* [cite_start]**Input Voltage ($V_{in}$):** 12V DC Nominal [cite: 17, 97]
-* **Output Voltage ($V_{out}$):** 5V DC Regulated [cite: 17, 98]
-* **Target Application:** Common internal rail generation for embedded systems, microcontrollers (e.g., Arduino/ATmega chips), and automotive accessories[cite: 24, 26, 27, 28].
+* Input Voltage ($V_{in}$):** 12V DC Nominal
+* **Output Voltage ($V_{out}$):** 5V DC Regulated 
+* **Target Application:** Common internal rail generation for embedded systems, microcontrollers (e.g., Arduino/ATmega chips), and automotive accessories
 
 ### 2. Design Topology (Select Yours & Delete the Other)
 
